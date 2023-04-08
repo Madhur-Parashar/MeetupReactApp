@@ -4,7 +4,7 @@
     margin-right: 20px;
     margin-top: 20px;
     background: #FFFFFF;
-    overflow: scroll;
+    /* overflow: scroll; */
     border-radius: 10px;
     display: flex;
     flex-direction: column;
@@ -77,4 +77,7 @@ background-color: #50A43F;
 }
 .MeetupsCard__info__startime{
     color: #001D44;
+}
+.MeetupsCard__img-container img{
+    border-radius: 10px 10px 0 0;
 }

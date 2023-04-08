@@ -21,3 +21,9 @@
     align-items: center;
     color: #4E5C7B;
 }
+@media screen and (max-width: 738px) {
+    .Select select{
+        width: 100px;
+        margin-left: 4px;
+    }
+  }

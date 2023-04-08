@@ -6,3 +6,8 @@
 .pl16{
     padding-left: 16px;
   }
+@media screen and (max-width: 738px) {
+    .Filters{
+        justify-content: center;
+    }
+  }
