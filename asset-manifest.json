@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MeetupReactApp/static/css/main.6c8282bc.css",
-    "main.js": "/MeetupReactApp/static/js/main.97f6e0a5.js",
+    "main.css": "/MeetupReactApp/static/css/main.cb44dc2f.css",
+    "main.js": "/MeetupReactApp/static/js/main.d99434b2.js",
     "static/js/787.fc721c03.chunk.js": "/MeetupReactApp/static/js/787.fc721c03.chunk.js",
     "index.html": "/MeetupReactApp/index.html",
-    "main.6c8282bc.css.map": "/MeetupReactApp/static/css/main.6c8282bc.css.map",
-    "main.97f6e0a5.js.map": "/MeetupReactApp/static/js/main.97f6e0a5.js.map",
+    "main.cb44dc2f.css.map": "/MeetupReactApp/static/css/main.cb44dc2f.css.map",
+    "main.d99434b2.js.map": "/MeetupReactApp/static/js/main.d99434b2.js.map",
     "787.fc721c03.chunk.js.map": "/MeetupReactApp/static/js/787.fc721c03.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c8282bc.css",
-    "static/js/main.97f6e0a5.js"
+    "static/css/main.cb44dc2f.css",
+    "static/js/main.d99434b2.js"
   ]
 }
