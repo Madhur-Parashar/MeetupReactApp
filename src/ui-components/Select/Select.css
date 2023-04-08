@@ -1,0 +1,23 @@
+.Select select{
+    border: none;
+    color: #4E5C7B;
+    background: #DFE4EE;
+    width: 45px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+    color: #4E5C7B;
+    cursor: pointer;
+    width: 120px;
+    margin-left: 8px;
+}
+.Select label{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+    color: #4E5C7B;
+}

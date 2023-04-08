@@ -1,0 +1,10 @@
+.MeetupsDetails{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.MeetupsDetails__empty-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
